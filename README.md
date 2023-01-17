@@ -6,11 +6,11 @@ PROJECT DESCRIPTION
 
 Hello Microverse
 
-This is my first technicalproject in Microverse
+This is my first technical project in Microverse
 
 ## 🛠 Built With 
-  HTML
-  CSS
+  .HTML
+  .CSS
   
 
 ## 🚀 Live Demo 
