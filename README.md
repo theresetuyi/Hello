@@ -6,7 +6,7 @@ PROJECT DESCRIPTION
 
 Hello Microverse
 
-This is my first project technical in Microverse
+This is my first technicalproject in Microverse
 
 ## 🛠 Built With 
   HTML
@@ -43,7 +43,7 @@ open style.css
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/theresetuyi/Hello/issues).
+Feel free to check the issues page(https://github.com/theresetuyi/Hello/issues).
 
 
 ## https://github.com/theresetuyi/Hello/issuesShow your support <a name="support"></a>
