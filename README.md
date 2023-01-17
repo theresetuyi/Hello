@@ -28,9 +28,9 @@ open a terminal
 run..ls
 run..cd usr
 run...git clone git@github.com:theresetuyi/Hello.git
-run  cd hello
-open  index.html
-open style.css
+
+### Install
+git install
 
 ## 👥 Authors
 👤 **Therese TUYISABE**
@@ -38,6 +38,12 @@ open style.css
 - GitHub: [https://github.com/theresetuyi)
 - Twitter: [https://twitter.com/THERESETUYISAB2)
 - LinkedIn: [https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
+
+## 🔭Future Features
+
+- I would like to add same technology on it
+- I would like my project to have impact to the social.
+- I would like to add new things on it
 
 ## 🤝 Contributing 
 
